@@ -2,6 +2,8 @@
 
 This project is an end-to-end AI/ML pipeline for classifying agricultural leaf images into **Healthy** or **Diseased** categories. It uses a **MobileNetV2** transfer learning model optimized for CPU inference and includes a Streamlit-based web interface.
 
+## Live Demo Link: "https://agriculturevisionai.streamlit.app/"
+
 ## 📁 Project Structure
 ```
 AgriVision_AI/
