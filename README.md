@@ -121,9 +121,9 @@ The project includes optional scripts (`export_tflite.py` and `tflite_infer.py`)
 
 *   **Status**: Scripts are code-complete and included in the repository.
 *   **Constraint**: These files require a specific Python environment (e.g., Python 3.10) to run. 
-*   **Observation**: We attempted to generate the model using **Google Colab**, but encountered version 
+*   **Observation**: I attempted to generate the model using **Google Colab**, but encountered version 
      incompatibility issues even in that environment.
-*   **Solution**: Consequently, we opted to host the project on **Streamlit Cloud** as the primary 
+*   **Solution**: Consequently, I opted to host the project on **Streamlit Cloud** as the primary 
      deployment method, which works flawlessly.
 
 
